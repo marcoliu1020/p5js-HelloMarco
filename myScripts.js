@@ -30,7 +30,7 @@ function draw() {
 		// 白字
 		fill(255) // white
 		text(myText, x, y + 50)
-
+		
 	} else {
 		// 白底
 		fill(255)
