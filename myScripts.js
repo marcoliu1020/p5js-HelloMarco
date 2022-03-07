@@ -17,7 +17,7 @@ function draw() {
 
 	// 文字
 	textSize(30)
-	let texts = ["Hello", "Marco", "Cool", "Fight"]
+	let texts = ["Hello", "Marco", "Cool", "Fight", "Best"]
 	let myText = random(texts)
 	let myTextWidth = textWidth(myText) + 20
 
