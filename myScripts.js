@@ -40,5 +40,4 @@ function draw() {
 		fill(0)
 		text(myText, x, y + 50)
 	}
-
 }
